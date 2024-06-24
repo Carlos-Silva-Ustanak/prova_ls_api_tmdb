@@ -15,7 +15,7 @@ Funcionalidades Principais
 
 Tecnologias Utilizadas
 
-    Laravel 8: Framework PHP poderoso e versátil para o desenvolvimento de aplicativos web.
+    Laravel 11: Framework PHP poderoso e versátil para o desenvolvimento de aplicativos web.
 
     Tailwind CSS: Framework CSS para estilização responsiva e moderna, utilizado para criar layouts e componentes visuais.
 
