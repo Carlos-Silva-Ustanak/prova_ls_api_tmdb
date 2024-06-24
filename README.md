@@ -11,7 +11,7 @@ Funcionalidades Principais
 
     Gerenciamento de Usuários: Funcionalidades CRUD para administradores gerenciarem usuários, incluindo criação, edição, exclusão e atribuição de funções.
 
-    Detalhes de Filmes e Séries: Páginas detalhadas para cada filme ou série, exibindo informações como descrição, elenco, avaliações de usuários e trailers.
+    Detalhes de Filmes e Séries: Páginas detalhadas para cada filme ou série, exibindo informações como descrição
 
 Tecnologias Utilizadas
 
@@ -21,7 +21,7 @@ Tecnologias Utilizadas
 
     TMDb API: API externa utilizada para obter informações atualizadas sobre filmes, como pôsteres, títulos e avaliações.
 
-    MySQL: Banco de dados relacional usado para armazenar dados do aplicativo, como informações de usuário, filmes favoritos e histórico de visualização.
+    MySQL: Banco de dados relacional usado para armazenar dados do aplicativo, como informações de usuário
 
 Requisitos de Instalação
 
