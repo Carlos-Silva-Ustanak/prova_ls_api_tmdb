@@ -1,6 +1,6 @@
 Prova de Laboratório de sofware
 
-Este é um projeto desenvolvido em Laravel para gerenciar informações sobre filmes e séries, integrado com a API do TMDb (The Movie Database) para obter dados atualizados sobre filmes, como pôsteres, títulos e avaliações.
+Este é um projeto desenvolvido em Laravel para gerenciar informações sobre filmes e séries, integrado com a API do TMDb (The Movie Database) para obter dados atualizados sobre filmes, como pôsteres e títulos .
 Funcionalidades Principais
 
     Autenticação e Autorização: Sistema de login seguro com autenticação de dois fatores opcional. Roles de usuário são implementadas para distinguir entre administradores e usuários padrão.
@@ -11,7 +11,7 @@ Funcionalidades Principais
 
     Gerenciamento de Usuários: Funcionalidades CRUD para administradores gerenciarem usuários, incluindo criação, edição, exclusão e atribuição de funções.
 
-    Detalhes de Filmes e Séries: Páginas detalhadas para cada filme ou série, exibindo informações como descrição
+    Detalhes de Filmes: Páginas detalhadas para cada filme, exibindo informações como descrição
 
 Tecnologias Utilizadas
 
